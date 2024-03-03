@@ -1,6 +1,6 @@
 # IremTurgut
 <h1 align="center">Hi 👋, I'm Irem Turgut.</h1>
-<h3 align="center">I am a Software Engineering student at Karadeniz Technical University.</h3>
+<h3 align="center">I am a Software Engineer.</h3>
 
 - 🌱 I’m currently learning **C# , .Net/.Net Core and Flutter**
 
