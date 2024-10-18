@@ -1,8 +1,8 @@
-# IremTurgut
+# Irem Turgut
 <h1 align="center">Hi 👋, I'm Irem Turgut.</h1>
 <h3 align="center">I am a Software Engineer.</h3>
 
-- 🌱 I’m currently learning **C# , .Net/.Net Core and Flutter**
+- 🌱 I’m currently learning **C#, .Net/.Net Core, and Flutter**
 
 - 📄 How to reach me **iremt.151@gmail.com**
 
@@ -29,5 +29,19 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Xml-.NET-Logo.svg" alt=".net" width="40" height="40"/>
   </a>
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://nuxtjs.org/logo.svg" alt="nuxt" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://vuejs.org/images/logo.png" alt="vue" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://www.php.net/images/logos/php-logo.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
+    <img src="https://www.jetbrains.com/phpstorm/guide/images/phpstorm.svg" alt="phpstorm" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
+    <img src="https://www.jetbrains.com/webstorm/guide/images/webstorm.svg" alt="webstorm" width="40" height="40"/>
+  </a>
 </p>
-
